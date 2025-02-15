@@ -1,5 +1,8 @@
-# Elist_Analysis
-Sales trends analysis for e-commerce company.
+# TechSpark_Analysis
+<img width="779" alt="Screenshot 2025-02-14 at 8 50 36 PM" src="https://github.com/user-attachments/assets/fc2f27c9-0f43-4f0a-9466-700940c945cd" />
+
+TechSpark, founded in 2018, quickly established itself as a go-to online retailer for consumer electronics, offering a curated selection of popular devices and accessories from leading brands like Apple, Samsung, and Lenovo.  Catering to a tech-savvy audience, TechSpark provides high-quality portable audio solutions, powerful computing devices for both professional and personal use, essential peripherals for enhanced digital experiences, and immersive visual displays for entertainment and productivity. Since its inception, TechSpark has prioritized offering a seamless online shopping experience, competitive pricing, and reliable delivery, contributing to its steady growth and reputation within the competitive e-commerce landscape. As the business scales, TechSpark continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
+
 
 # Overview
 
