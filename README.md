@@ -1,7 +1,7 @@
 # TechSpark_Analysis
   
   <p align="center">
-  <img width="200" alt="Screenshot 2025-02-14 at 8 50 36 PM" src="https://github.com/user-attachments/assets/fc2f27c9-0f43-4f0a-9466-700940c945cd" />
+  <img width="300" alt="Screenshot 2025-02-14 at 8 50 36 PM" src="https://github.com/user-attachments/assets/fc2f27c9-0f43-4f0a-9466-700940c945cd" />
 </p>
   
 
