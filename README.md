@@ -5,8 +5,30 @@
 </p>
   
 
-TechSpark, founded in 2018, quickly established itself as a go-to online retailer for consumer electronics, offering a curated selection of popular devices and accessories from leading brands like Apple, Samsung, and Lenovo.  Catering to a tech-savvy audience, TechSpark provides high-quality portable audio solutions, powerful computing devices for both professional and personal use, essential peripherals for enhanced digital experiences, and immersive visual displays for entertainment and productivity. Since its inception, TechSpark has prioritized offering a seamless online shopping experience, competitive pricing, and reliable delivery, contributing to its steady growth and reputation within the competitive e-commerce landscape. As the business scales, TechSpark continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
+TechSpark, founded in 2018, quickly established itself as a go-to online retailer for consumer electronics, offering a curated selection of popular devices and accessories from leading brands like Apple, Samsung, and Lenovo.  Catering to a tech-savvy audience, TechSpark provides high-quality portable audio solutions and powerful computing devices. Since its inception, TechSpark has prioritized offering a seamless online shopping experience, competitive pricing, and reliable delivery, contributing to its steady growth and reputation within the competitive e-commerce landscape. As the business scales, TechSpark continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
 
+<details>
+  <summary>Project Goals</summary>
+</details>
+
+<details>
+  <summary>Stakeholder Questions</summary>
+<br /> 
+  </details>
+
+<details open>
+  <summary>Table of Contents</summary>
+
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+    - [Historical & Seasonal Trends](#historical-trends)
+    - [Product Trends](#product-trends)
+    - [Geographical Trends](#geographical-trends)
+    - [Loyalty Program](#loyalty-program)
+    - [Refund Rates](#refund-rates)
+      - [Spotlight: Apple Products](#spotlight-apple-products)
+- [Recommendations](#recommendations)
+</details>
 
 # Overview
 
