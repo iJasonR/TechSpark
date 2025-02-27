@@ -52,7 +52,10 @@ As we clean this data, our goal is to think about how can we support the various
 </details>
 
 # Executive Summary
-![Screenshot 2025-02-20 at 10 47 06 AM](https://github.com/user-attachments/assets/16cdc671-19c5-4bbc-8387-0b538d1d289e)
+
+![Screenshot 2025-02-20 at 3 07 26 PM](https://github.com/user-attachments/assets/d6ec0c48-1e4e-4506-866a-b3dd2b9d4317)
+
+Throughout 2019-2022, we see that monthly revenue spike closer to the end of 2020 and then slowly declined. Monthly sales peaked around $1.25 million and declined in the later years to lower than what it initally was to only $260k sales. Similarly, number of orders peaked in 2021 with around 35k orders and then slowly declined to only 21.5k orders in 2022 representing a 45% annual decline in total order count. 
 
 ### ERD
 <img width="881" alt="Screenshot 2025-01-31 at 10 15 27 AM" src="https://github.com/user-attachments/assets/cd07751f-5f4f-4e39-86d9-6e2d7f0cfd04" />
