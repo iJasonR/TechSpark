@@ -7,14 +7,35 @@
 
 TechSpark, founded in 2018, quickly established itself as a go-to online retailer for consumer electronics, offering a curated selection of popular devices and accessories from leading brands like Apple, Samsung, and Lenovo.  Catering to a tech-savvy audience, TechSpark provides high-quality portable audio solutions and powerful computing devices. Since its inception, TechSpark has prioritized offering a seamless online shopping experience, competitive pricing, and reliable delivery, contributing to its steady growth and reputation within the competitive e-commerce landscape. As the business scales, TechSpark continues to strive for excellence in delivering cutting-edge products and customer satisfaction.
 
+## Company Background
+
+
+
 <details>
   <summary>Project Goals</summary>
+<br /> 
+Since 2019, Techspark has collected data on various parts of their business including, orders, customers, products, and regional data. Although this data is not cleaned, it presents challenges and also unique opportunities to provide valuable insights for key business decisions.   
+  
+<br /> 
+<br /> 
+As we clean this data, our goal is to think about how can we support the various departments including finance, sales, product and marketing with real world actionable insights and also increase our market share on the global scale. 
+
 </details>
 
 <details>
   <summary>Stakeholder Questions</summary>
 <br /> 
-  </details>
+1. What were the overall sales trends from 2019 to 2022? <br /> 
+2. What were the company's yearly and monthly growth rates? <br /> 
+3. How has the new loyalty program performed? Should we keep using it? <br /> 
+4. What was the company's refund rate and average order value (AOV)? <br /> 
+<br /> 
+
+**Notes:**
+- Focus on sales revenue, AOV, and order counts
+- Look at trends over yearly and monthly periods 
+- For refunds and AOV specifically compare across Apple products
+</details>
 
 <details open>
   <summary>Table of Contents</summary>
@@ -29,6 +50,9 @@ TechSpark, founded in 2018, quickly established itself as a go-to online retaile
       - [Spotlight: Apple Products](#spotlight-apple-products)
 - [Recommendations](#recommendations)
 </details>
+
+## Executive Summary
+![Screenshot 2025-02-20 at 10 47 06 AM](https://github.com/user-attachments/assets/16cdc671-19c5-4bbc-8387-0b538d1d289e)
 
 # Overview
 
