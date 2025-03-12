@@ -67,6 +67,10 @@ Throughout 2019-2022, we see that monthly revenue spike closer to the end of 202
 
 ## Sales Trends
 
+
+<img width="333" alt="Screenshot 2025-03-12 at 10 34 01 AM" src="https://github.com/user-attachments/assets/043fdcda-c777-4f7e-9877-de66e228bfdf" /> <img width="333" alt="Screenshot 2025-03-12 at 10 38 07 AM" src="https://github.com/user-attachments/assets/f868d5bb-1003-4654-875d-b8fe5a4bebe0" /> <img width="333" alt="Screenshot 2025-03-12 at 10 34 41 AM" src="https://github.com/user-attachments/assets/b9cd2295-6298-4862-98f3-c9b7574c247f" />
+
+
 talk about how sales changed over the 2019-2022
 
 What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars?
