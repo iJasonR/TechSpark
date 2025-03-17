@@ -71,13 +71,25 @@ Throughout 2019-2022, we see that monthly revenue spike closer to the end of 202
 <img width="333" alt="Screenshot 2025-03-12 at 10 34 01 AM" src="https://github.com/user-attachments/assets/043fdcda-c777-4f7e-9877-de66e228bfdf" /> <img width="333" alt="Screenshot 2025-03-12 at 10 38 07 AM" src="https://github.com/user-attachments/assets/f868d5bb-1003-4654-875d-b8fe5a4bebe0" /> <img width="333" alt="Screenshot 2025-03-12 at 10 34 41 AM" src="https://github.com/user-attachments/assets/b9cd2295-6298-4862-98f3-c9b7574c247f" />
 
 
-talk about how sales changed over the 2019-2022
+### What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars?
 
-What were the monthly and yearly number of sales throughout 2019 and 2022? What about AOV and total sales in dollars?
+When we look into the data by year, we see that 2020 by far had the most with $10.1 million total sales.
 
-Thoughout 2019 to 2022 E-list sold over 108k orders totaling $28.1 Million. The average monthly sales throughout this time period were 585k. The month with the highest total sales were September 2021 while the month with lowest total sales occurred on October 2022. The average order value for all months within this time period was $252.94. The Month with the highest average order value (AOV) was $321.62 which occurred in October 2021 and the month with the lowest AOV was $216.32 which was in October 2022. The average order count per month for this time period was 2,253. The month with the most amount of orders were December 2020 with 4,019 orders while the month with the least amount of orders were in October 2022 with only 825 total orders. 
+2021 took the lead when it came to order count at 35,858 orders although total sales were about $1 million less than in 2020. 
 
-When we look into the data by year, we see that 2020 by far had the most with $10.1 million total sales 2021 took the lead when it came to order count at 35,858 orders although total sales was about $1 million less than in 2020. 2020 also had the highest AOV with the average order value being $300.16.  Overall total sales peaked in 2020 and then started declining the years following with the largest decline happening in 2022. 
+2020 also had the highest AOV with the average order value being $300.16. 
+
+Overall total sales peaked in 2020 and then started declining the years following with the largest decline happening in 2022.
+
+
+Throughout 2019 to 2022 TechSpark sold over 108k orders totaling $28.1 Million. 
+The average monthly sales throughout this time period were 585k. 
+The month with the highest total sales were September 2021 while the month with lowest total sales occurred in October 2022. 
+The average order value for all months within this time period was $252.94.
+The Month with the highest average order value (AOV) was $321.62 which occurred in October 2021 and the month with the lowest AOV was $216.32 which was in October 2022. 
+The average order count per month for this time period was 2,253. 
+The month with the most amount of orders were December 2020 with 4,019 orders while the month with the least amount of orders were in October 2022 with only 825 total orders.
+
 
 
 Which months and products performed the best / worst? Is there seasonality?
