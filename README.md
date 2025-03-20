@@ -156,7 +156,10 @@ Note: 3 orders did not have a categorized dates so they were excluded from our a
 
 * Recapture lost customers by offering exclusive deals to returning customers who shopped during the pandemic boom
 * Increase AOV by offering bundled deals for high ticket items 
-* make sure popular items are well stocked for the busy periods like Q4
 * offer post holiday promotions to mitigate the drop in sales during the slow months
 
+### Products
 
+* make sure popular items like the 27 Inch monitors and apple Airpods are well stocked for the busy periods like Q4
+* Since the last 4 items only accounted for 3.5% of sales, the effort to promote them would be put to better use promoting the top 4 items. Eliminate the bottom 4 performing items and replace them with additional inventory of the top 4 performing items
+* Ensure that the top performing items are also promoted in the front page of the website to continue to drive growth
