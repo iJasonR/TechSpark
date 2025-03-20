@@ -55,6 +55,7 @@ As we clean this data, our goal is to think about how can we support the various
 
 ![Screenshot 2025-02-20 at 3 07 26 PM](https://github.com/user-attachments/assets/d6ec0c48-1e4e-4506-866a-b3dd2b9d4317)
 
+
 Throughout 2019-2022, we see that monthly revenue spike closer to the end of 2020 and then slowly declined. Monthly sales peaked around $1.25 million and declined in the later years to lower than what it initally was to only $260k sales. Similarly, number of orders peaked in 2021 with around 35k orders and then slowly declined to only 21.5k orders in 2022 representing a 45% annual decline in total order count. 
 
 ### ERD
@@ -105,24 +106,47 @@ APAC had the highest average order value the average order being $278.81 but onl
 
 ## Geographical Trends
 talk about increase/decrease from different regions 
-
 How did this differ by product and geography?
 
+<img width="700" alt="Screenshot 2025-03-17 at 2 10 15 PM" src="https://github.com/user-attachments/assets/544963a1-ca54-4d50-95a1-e34c089b9427" />
+
+Overall, we see that all regions follow very similar trends however, at different scales. 
 North America accounted for more than half of the total sales throughout 2019-2022 in addition to the highest order count with 55,805 orders. 
 APAC had the highest average order value the average order being $278.81 but only accounted for 13% of total sales. 
 
 ## Loyalty Program
 Should we keep using the loyalty program?
-
 What was the monthly number of sales and AOV for people in the loyalty program vs. those not in the loyalty program? How does this trend differ for recent months vs. previous months?
+<img width="800" alt="Screenshot 2025-03-17 at 2 06 25 PM" src="https://github.com/user-attachments/assets/692f58d1-16a0-4c57-aa66-03bb383dac10" />
 
 Initially when the loyalty program began, Non loyalty sales dominated significantly however in the more recent years, 2021 and 2022 shows that total sales of loyalty members surpassed that of non loyalty members. Additionally, average order value in the most recent years have also shown improvement with 2022 loyalty members having almost a $30 lead in average order value with $214 for non loyalty members and $244 for loyalty members. With this uptrend, I would reccomend continuing the loyalty program to see if the trend continues with positive growth. 
 
 ## Refund Rates
-What are the refund rates for Apple products?
 
+Refund rate for all apple products throughout this time period were 5.9%. As we break this down by specific apple products we see that MacBook Air laptops were returned most frequently with 11.9% returns, followed by apple iPhones at 7.9% and lastly apple headphones with a return rate of 5.4%. Although apple airpods had the highest count of being returned, when we look at the refund rate, we see that the rate at which it is being returned is the lowest compared to other apple products.  When we look at returns over the year, we see that even though MacBook laptops had the most amount of returns we can see the trend shows that MacBook Air laptop returns are decreasing over the years.
+
+It is worth noting that returns for all products in 2022 were 0%. This it extremely unusual and would be something we would need to look into with the help of the data engineering team to be sure that the data is being pulled in correctly.
+
+
+### Spotlight: Apple Products
+
+
+What are the refund rates for Apple products?
 Refund rate for all apple product throughout this time period were 5.9%.
 What are the refund rates for each of the Apple products? How does this differ by year?
 
-Refund rate for all apple product throughout this time period were 5.9%. As we break this down by specific apple products we see that MacBook Air laptops were returned most frequently with 11.9% returns, followed by apple iPhones at 7.9% and lastly apple headphones with a return rate of 5.4%. When we look at returns over the year, we see that even though MacBook laptops had the most amount of returns we can see the trend shows that MacBook Air laptop returns are decreasing over the years.  it is worth noting that returns for all products in 2022 were 0%. This it extremely unusual and would be something we would need to look into with the help of the data engineering team to be sure that the data is being pulled in correctly. Note: 3 orders did not have a categorized date so this was excluded from our analysis. This accounts for <1% of our data. 
+![Screenshot 2025-03-18 at 2 07 29 PM](https://github.com/user-attachments/assets/f6eafd90-e8e6-47cd-a5f5-90f8e89cbe1c)
 
+As we look at number of refunds by month, we see that Apple airpods lead the number of refunds consistently followed by Macbook air laptops and then apple iPhones.
+
+
+![Screenshot 2025-03-18 at 2 05 59 PM](https://github.com/user-attachments/assets/d16aa01a-e059-4fce-a0e3-0c0d52012ea4)
+
+when we look at the refund rate, the number of returns in proportion to number of purchases, we see that Macbook Air laptops takes the lead.
+ultimately, this shows that people who purchase Macbook Air Laptops are more likely to be returned than any other product being sold. 
+
+
+
+Note: 3 orders did not have a categorized dates so they were excluded from our analysis. This accounts for <1% of our data. 
+
+## Recommendations
