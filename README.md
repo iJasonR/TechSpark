@@ -98,11 +98,11 @@ Which months and products performed the best / worst? Is there seasonality?
 When we look at months combined we can see some cyclicality when during the month of October and February with a huge decline in growth rates -28% and -25% respectively. The best months were December, November and March with growth rates of 22.97%, 18.49% and 18.30% respectively.  Apple products accounted for a little more than half of all sales. Gaming monitors accounted for the largest amount of sales for a single product with 35% of total sales. 
 
 ## Product Trends
-talk about the increase/decrease in sales for specific products over 2019-2022
 How did this differ by product and geography?
 
-North America accounted for more than half of the total sales throughout 2019-2022 in addition to the highest order count with 55,805 orders. 
-APAC had the highest average order value the average order being $278.81 but only accounted for 13% of total sales. 
+<img width="819" alt="Screenshot 2025-03-20 at 12 14 02 PM" src="https://github.com/user-attachments/assets/021f1160-38dd-4944-9e6e-69e3aeaab358" />
+
+4 of the 8 total products accounted for 96.4% of all total revenue throughout all regions. The percentage on the graph represents the share of all products being sold. Gaming monitors accounted for 35% of all revenue. Apple Airphones accounted for 27.5%, Macbook air laptops accounted for 22.4%, Thinkpad laptops accounted for 11.4% of total revenue. The remaining 3.4% of total revenue were shared amongst the other 4 products. 
 
 ## Geographical Trends
 talk about increase/decrease from different regions 
@@ -113,6 +113,7 @@ How did this differ by product and geography?
 Overall, we see that all regions follow very similar trends however, at different scales. 
 North America accounted for more than half of the total sales throughout 2019-2022 in addition to the highest order count with 55,805 orders. 
 APAC had the highest average order value the average order being $278.81 but only accounted for 13% of total sales. 
+
 
 ## Loyalty Program
 Should we keep using the loyalty program?
@@ -150,3 +151,12 @@ ultimately, this shows that people who purchase Macbook Air Laptops are more lik
 Note: 3 orders did not have a categorized dates so they were excluded from our analysis. This accounts for <1% of our data. 
 
 ## Recommendations
+
+### Sales and Growth Strategy
+
+* Recapture lost customers by offering exclusive deals to returning customers who shopped during the pandemic boom
+* Increase AOV by offering bundled deals for high ticket items 
+* make sure popular items are well stocked for the busy periods like Q4
+* offer post holiday promotions to mitigate the drop in sales during the slow months
+
+
