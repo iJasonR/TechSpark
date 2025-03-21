@@ -163,3 +163,17 @@ Note: 3 orders did not have a categorized dates so they were excluded from our a
 * make sure popular items like the 27 Inch monitors and apple Airpods are well stocked for the busy periods like Q4
 * Since the last 4 items only accounted for 3.5% of sales, the effort to promote them would be put to better use promoting the top 4 items. Eliminate the bottom 4 performing items and replace them with additional inventory of the top 4 performing items
 * Ensure that the top performing items are also promoted in the front page of the website to continue to drive growth
+
+### Loyalty Program
+
+* The loyalty program has shown some signs of success however we need more data to determine if the AOV of loyalty customers continues to overtake non loyalty customers.
+* Streamline the process to make non loyalty customers be more incentivised to join the loyalty program. The less friction to join the loyalty program, the more likely customers will be to join the loyalty program.
+* Offer promotions to returning customers who are not in the loyalty program to entice them into joing the program.
+* Start a referral program in order to grow the existing loyalty program. Offer a discount to both the referer and the friend in order to get more people to join.
+
+
+### Refunds 
+
+* Issue a discount on future purchase if a customer leaves a review for items purchased. Reviews have been proven to lower returns.
+* Offer exchanges in addition to refunds. while this may not fix the overall issue, it will mitigate atleast part of it.
+* Reach out to the data engineering team to further investigate why their are no refunds for all of 2022 for all products. 
